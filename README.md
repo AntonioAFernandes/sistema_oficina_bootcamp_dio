@@ -3,7 +3,7 @@ Sistema de banco de dados de uma oficina para o bootcamp da DIO.
 
 Os dados foram gerados pelo ChatGPT por motivos de facilidade, com o propósito de fornecer dados fictícios para uso em queries.
 
-ER criado para a criação do banco de dados:
+ER elaborado para a criação do banco de dados:
 ![8prWPmh](https://github.com/AntonioAFernandes/sistema_oficina_bootcamp_dio/assets/86501008/9bb0742a-9699-4aeb-a655-78350b493cb0)
 
 Perguntas respondidas pelas queries:
